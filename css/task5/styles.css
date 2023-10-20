@@ -1,0 +1,22 @@
+.firstcol{
+    height: 600px;
+    width: 600px;
+}
+
+.secondcol{
+    height: 200px;
+    width: 370px;
+    background-color: black;
+    margin: 25px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.thirdcol{
+    height: 140px;
+    width: 350px;
+    background-color: lightslategray;
+    text-align: center;
+    padding-top: 30px;
+}

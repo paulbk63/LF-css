@@ -1,0 +1,19 @@
+.divone{
+    position: relative;
+    background-color: orange;
+    margin-left: 200px;
+    margin-top: 50px;
+    height: 200px;
+    width: 230px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.divtwo{
+    position: relative;
+    background-color: #336333;
+    height: 70px;
+    width: 70px;
+
+}
